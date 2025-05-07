@@ -12,8 +12,7 @@
     "compile": "tsc -b --incremental",
     "ios": "yarn workspace mobile  ios",
     "studio": "yarn workspace mobile studio",
-    "xcode": "yarn workspace mobile xcode",
-    "start": "echo hello!!!!!!!!!!!!!!!!!!!"
+    "xcode": "yarn workspace mobile xcode"
   },
   "dependencies": {
     "react-native": "*"
